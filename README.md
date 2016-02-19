@@ -3,6 +3,10 @@
 
 Genearte GUID for Web or Node.js, Useful for create unique ID for DOM.
 
+## Demo
+
+[demo](http://forsigner.com/util-guid)
+
 ## Install
 
 #### bower
