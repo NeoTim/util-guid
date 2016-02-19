@@ -1,0 +1,24 @@
+{
+  "name": "util-guid",
+  "version": "1.0.0",
+  "description": "Generate GUIDs for Web or Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forsigner/util-guid.git"
+  },
+  "keywords": [
+    "guid",
+    "guid",
+    "generator"
+  ],
+  "author": "forsigner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forsigner/util-guid/issues"
+  },
+  "homepage": "https://github.com/forsigner/util-guid#readme"
+}
