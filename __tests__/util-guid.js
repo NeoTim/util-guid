@@ -1,7 +1,7 @@
 'use strict';
 
-jest.dontMock('../lib/guid');
-var guid = require('../lib/guid');
+jest.dontMock('../lib/util-guid');
+var guid = require('../lib/util-guid');
 
 describe('guid', () => {
   it('#guid(16) should return a string whose length is 16', () => {
