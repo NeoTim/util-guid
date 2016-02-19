@@ -2,7 +2,7 @@
   "name": "util-guid",
   "version": "1.0.0",
   "description": "Generate GUIDs for Web or Node.js",
-  "main": "index.js",
+  "main": "lib/guid.js",
   "scripts": {
     "test": "jest"
   },
