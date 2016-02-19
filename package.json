@@ -23,6 +23,7 @@
   "homepage": "https://github.com/forsigner/util-guid#readme",
   "devDependencies": {
     "babel": "^6.5.2",
-    "babel-eslint": "^5.0.0"
+    "babel-eslint": "^5.0.0",
+    "jest-cli": "^0.8.2"
   }
 }
