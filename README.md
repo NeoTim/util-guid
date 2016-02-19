@@ -1,5 +1,5 @@
 
-# Beside [![Build Status](https://travis-ci.org/forsigner/util-guid.svg?branch=master)](https://travis-ci.org/forsigner/util-guid) [![NPM Version](http://img.shields.io/npm/v/util-guid.svg?style=flat)](https://www.npmjs.org/package/util-guid)
+# Util-guid [![Build Status](https://travis-ci.org/forsigner/util-guid.svg?branch=master)](https://travis-ci.org/forsigner/util-guid) [![NPM Version](http://img.shields.io/npm/v/util-guid.svg?style=flat)](https://www.npmjs.org/package/util-guid)
 
 Genearte GUID for Web or Node.js, Useful for create unique ID for DOM.
 
