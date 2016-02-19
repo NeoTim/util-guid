@@ -20,8 +20,9 @@ describe('guid', () => {
     expect(guid(16)).not.toEqual(guid(16));
     expect(guid(32)).not.toEqual(guid(32));
     expect(guid()).not.toEqual(guid());
-    console.log(guid());
-    console.log(guid());
+console.log(guid());
+console.log(guid(32));
+console.log(guid(16));
   });
 
 });
