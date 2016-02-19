@@ -1,6 +1,6 @@
 {
   "name": "util-guid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate GUIDs for Web or Node.js",
   "main": "lib/guid.js",
   "scripts": {
