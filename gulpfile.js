@@ -16,7 +16,7 @@ gulp.task('js', function() {
     .transform(babelify, { presets: ['es2015'] })
     .bundle()
     .pipe(source('main.js'))
-    .pipe(rename('util-guild.js'))
+    .pipe(rename('util-guid.js'))
     .pipe(gulp.dest('./dist'))
     .pipe(streamify(uglify()))
     .pipe(streamify(replaceName(/\.js/g, '.min.js')))
